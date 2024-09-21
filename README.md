@@ -1,2 +1,7 @@
-# snake-game-project
-Repository about classic snake game developed in Python.
+# Snake Game Project.
+
+Content:
+
+	•	Snake Game Project developed in Python.
+ 
+Used IDE: Visual Studio Code.
