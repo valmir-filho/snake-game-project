@@ -1,7 +1,7 @@
 # Snake Game Project.
 
-Content:
+## Content:
 
-	•	Snake Game Project developed in Python.
+- Snake Game Project developed in Python.
  
-Used IDE: Visual Studio Code.
+### Used IDE: Visual Studio Code.
