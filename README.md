@@ -8,10 +8,6 @@
 
 - Install Python: First, ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/);
 
-- Install Homebrew (macOS Only): If you’re using macOS and don’t have Homebrew, open the Terminal and run /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)";
-
-- Install Python (if not installed): If Python is not installed, open the Terminal and run (macOS Only) brew install python;
-
 - Verify Python Installation: Open your terminal (or Command Prompt) and run python3 --version;
 
 - Install Pygame: Now, install Pygame using pip. In the terminal, run pip3 install pygame;
