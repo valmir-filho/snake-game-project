@@ -28,18 +28,22 @@ snake_speed = 15
 font_style = pygame.font.SysFont("bahnschrift", 25)
 score_font = pygame.font.SysFont("comicsansms", 35)
 
+
 def display_score(score):
     value = score_font.render("Score: " + str(score), True, black)
     screen.blit(value, [0, 0])
+
 
 def draw_snake(snake_block, snake_list):
     for x in snake_list:
         pygame.draw.rect(screen, black, [x[0], x[1], snake_block, snake_block])
 
+
 def display_message(msg, color):
     mesg = font_style.render(msg, True, color)
     # Adjusting position for the center of the screen.
     screen.blit(mesg, [width / 6, height / 3])
+
 
 def game_loop():  # Main game function.
     game_over = False
