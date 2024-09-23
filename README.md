@@ -1,5 +1,7 @@
 # Snake Game Project.
 
+![image](https://github.com/user-attachments/assets/364c75dc-36ca-44cb-b344-ff57f8678aee)
+
 ## Content:
 
 - Snake Game Project developed in Python.
