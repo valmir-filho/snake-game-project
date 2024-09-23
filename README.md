@@ -14,7 +14,7 @@
 
 - Create the Game File: Open a text editor (like VSCode, Sublime Text, or even Notepad);
   
-- Copy the Python code (snake-game.py) into the editor;
+- Copy the Python code (snake_game.py) into the editor;
 
 - Save the file as snake_game.py;
 
