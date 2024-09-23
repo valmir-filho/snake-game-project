@@ -22,7 +22,7 @@
 
 - Run the game with: python3 snake_game.py
 
-## Instructions:
+## Game Instructions:
 
 - Use the arrow keys to move the snake;
 
